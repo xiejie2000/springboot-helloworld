@@ -17,7 +17,7 @@ public class HelloworldService {
     @RequestMapping("/getUser")
     public String getUser(String b,String c) {
         int i = 1;
-        int a = 2;
+        int a = 3;
         //test
 
         for (i=0;i<10;i++){
