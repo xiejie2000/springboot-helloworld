@@ -16,7 +16,7 @@ public class HelloworldService {
      * */
     @RequestMapping("/getUser")
     public String getUser(String b,String c) {
-        int i = 0;
+        int i = 1;
         int a = 2;
         //test
 
